@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosancapi&label=Profile%20views&color=0e75b6&style=flat" alt="carlosancapi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosancapi" alt="carlosancapi" /></a> </p>
-
 - 🔭 I’m currently working on [App tareas with React](https://formularios-react-carlos.netlify.app/)
 
 - 🌱 I’m currently learning **React JS, firebase and React native**
