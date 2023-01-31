@@ -1,6 +1,6 @@
 ### Hola soy Carlos Ancapi, un desarrollador full stack 👋
 
-aqui tienes  link de un aplicacion de tareas que hice, ésta ap´licacion web está realizada con javaScript, NodeJs, Vite, React JS, sweetalert2
+aqui tienes  link de un aplicacion de tareas que hice, ésta aplicacion web está realizada con javaScript, NodeJs, Vite, React JS, sweetalert2
 https://formularios-react-carlos.netlify.app/
 
 <!--
