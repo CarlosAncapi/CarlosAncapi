@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Ancapi</h1>
-<h3 align="center">A passionate full stack developer developer from Chile</h3>
+<h3 align="center">A passionate full stack developer from Chile</h3>
 <img align="center" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" alt="portadaJS" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosancapi&label=Profile%20views&color=0e75b6&style=flat" alt="carlosancapi" /> </p>
