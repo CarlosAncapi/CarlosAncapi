@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola soy Carlos Ancapi, un desarrollador full stack 👋
+
+aqui tienes  link de un aplicacion de tareas que hice, ésta ap´licacion web está realizada con javaScript, NodeJs, Vite, React JS, sweetalert2
+https://formularios-react-carlos.netlify.app/
 
 <!--
 **CarlosAncapi/CarlosAncapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
