@@ -1,3 +1,4 @@
+<img align="center" src="https://pin.it/5rJPBUA" />
 <h1 align="center">Hi 👋, I'm Carlos Ancapi</h1>
 <h3 align="center">A passionate full stack developer developer from Chile</h3>
 
